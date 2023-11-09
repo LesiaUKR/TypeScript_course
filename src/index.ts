@@ -155,18 +155,18 @@ const Car = {
 
 /***** optional params in type ****/
 
-type User = {
-  name: string;
-  age: number;
-  role?: string;
-};
+// type User = {
+//   name: string;
+//   age: number;
+//   role?: string;
+// };
 
-const user: User = {
-  name: "Bob",
-  age: 12,
-};
-const admin: User = {
-  name: "John",
-  age: 23,
-  role: "Admin",
-};
+// const user: User = {
+//   name: "Bob",
+//   age: 12,
+// };
+// const admin: User = {
+//   name: "John",
+//   age: 23,
+//   role: "Admin",
+// };
